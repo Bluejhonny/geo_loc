@@ -1,0 +1,6 @@
+# Install all the requirements needed for testing, documentation, and running
+# the example project in one fell swoop.
+
+numpy
+pandas
+matplotlib

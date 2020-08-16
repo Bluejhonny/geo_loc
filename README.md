@@ -1,0 +1,3 @@
+This repository contains geo_loc documentation, wich is a useful SIG tool to search points inside an area. geo_loc use Matplotlib library to create polygon from a list of (x,y) pairs, and to determine if a point is inside a given polygon or not. geo_loc simplified this process.
+
+So if we have X and Y points coordinates of an area boundaries, with geo_loc a polygon can be created, and then located a given point inside the polygon area.
